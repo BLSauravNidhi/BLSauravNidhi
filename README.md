@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Saurav.<br>👀 I'm a Programmer and i love programming.<br>🌱 I’m currently learning php.<br>💞️ I’m persuing BCA from Capital Univercity.
+👋 Hi, I’m Saurav.<br>👀 I'm a Programmer and i love programming.<br>🌱 I'm good at creating full stack web apps using PHP, Laravel, Mysql, Tailwind, GSAP..
 
 
 ## 🌐 Socials:
