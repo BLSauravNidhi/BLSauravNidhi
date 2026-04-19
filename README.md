@@ -4,9 +4,9 @@
 
 ## 🌐 Socials:
 <p>
-<a href="https://linkedin.com/in/bl-saurav-nidhi-a9217a338"><img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" width="150" height="70"></a>
+<a target="_blank" href="https://linkedin.com/in/bl-saurav-nidhi-a9217a338"><img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" width="150" height="70"></a>
     
-<a href="https://saurav.websdroid.site"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlWnRT8Pd2OqHULv17qQ3XstY8m1kuR2flA&s" width="150" height="70"></a>
+<a target="_blank" href="https://saurav.websdroid.site"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlWnRT8Pd2OqHULv17qQ3XstY8m1kuR2flA&s" width="150" height="70"></a>
 </p>
 
 # 💻 Tech Stack:
