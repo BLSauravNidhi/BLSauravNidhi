@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Saurav.<br>👀 I'm a Programmer and i love programming.<br>🌱 I'm good at creating full stack web apps using PHP, Laravel, Mysql, Tailwind, GSAP..
+👋 Hi, I’m Saurav.<br>👀 I create full stack web applications to solve real world problems.<br>🌱 I'm good at creating full stack web apps using PHP, Laravel, Mysql, Tailwind, GSAP..
 
 
 ## 🌐 Socials:
